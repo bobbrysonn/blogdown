@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bobbryson.netlify.app/</loc>
+    <lastmod>2021-09-02T21:55:11+03:00</lastmod>
+  </url><url>
+    <loc>https://bobbryson.netlify.app/p/my-love-for-cats/</loc>
+    <lastmod>2021-09-02T21:55:11+03:00</lastmod>
+  </url><url>
+    <loc>https://bobbryson.netlify.app/post/</loc>
+    <lastmod>2021-09-02T21:55:11+03:00</lastmod>
+  </url><url>
+    <loc>https://bobbryson.netlify.app/p/first-post/</loc>
+    <lastmod>2021-09-02T16:36:12+03:00</lastmod>
+  </url><url>
+    <loc>https://bobbryson.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://bobbryson.netlify.app/tags/</loc>
+  </url>
+</urlset>
