@@ -1,3 +1,3 @@
-[submodule "themes/hugo-theme-stack"]
-	path = themes/hugo-theme-stack
-	url = https://github.com/CaiJimmy/hugo-theme-stack/
+[submodule "themes/hugo-theme-stack-personal"]
+	path = themes/hugo-theme-stack-personal
+	url = https://github.com/bobbrysonn/hugo-theme-stack-personal/
