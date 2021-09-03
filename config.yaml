@@ -1,6 +1,6 @@
 baseurl: https://bobbryson.netlify.app
 languageCode: en-us
-theme: hugo-theme-stack-personal
+theme: hugo-theme-stack
 paginate: 5
 title: Bob Bryson's Blog
 
