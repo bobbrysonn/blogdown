@@ -1,6 +1,6 @@
 baseurl: https://bobbryson.netlify.app
 languageCode: en-us
-theme: hugo-theme-stack
+theme: hugo-theme-stack-personal
 paginate: 5
 title: Bob Bryson's Blog
 
@@ -8,7 +8,7 @@ title: Bob Bryson's Blog
 disqusShortname: sleepypapi
 
 # GA Tracking ID
-googleAnalytics: 2776629757
+googleAnalytics: G-M8F61NWWZR
 
 # Enable emoji support
 enableEmoji: true
