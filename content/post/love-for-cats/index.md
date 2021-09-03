@@ -8,6 +8,10 @@ description: "Detailed explanation on why I am so obsessed with those cute felin
 hidden: false
 image: "cover.jpg"
 licence: "Licensed under Moriasi Bob Bryson"
+tags: [
+  "Cats",
+  "Fun"
+]
 toc: true
 slug: "my-love-for-cats"
 ---
