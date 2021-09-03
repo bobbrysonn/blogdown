@@ -1,0 +1,42 @@
+<style>
+    /* Overwrite CSS variable */
+:root {
+    --article-font-family: "Besley", var(--base-font-family);
+}
+</style>
+
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        const customFontApi = document.createElement("link");
+        const customFontStatic = document.createElement("link");
+
+        customFont.href = "https://fonts.googleapis.com/css2?family=Besley&display=swap";
+        customFontApi.href = "https://fonts.googleapis.com";
+        customFontStatic.href = "https://fonts.gstatic.com"
+
+        customFont.type = "text/css";
+
+        customFont.rel = "stylesheet";
+        customFontApi.rel = "preconnect";
+        customFontStatic.rel = "preconnect";
+
+        customFontStatic.crossOrigin = "crossorigin";
+    
+        document.head.appendChild(customFont);
+        document.head.appendChild(customFontApi);
+        document.head.appendChild(customFontStatic);
+    }());
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GFVNKQ8TDW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GFVNKQ8TDW');
+</script>
+
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>

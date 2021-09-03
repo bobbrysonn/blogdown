@@ -1,0 +1,18 @@
+{
+  "verbose": true,
+  "ignore": [
+    "E:\\Webstorm\\Blogdown\\public",
+    "E:\\Webstorm\\Blogdown\\resources",
+    "E:\\Webstorm\\Blogdown\\themes",
+    "E:\\Webstorm\\Blogdown\\.git"
+  ],
+  "execMap": {
+    "py": "python"
+  },
+  "watch": [
+    "E:\\Webstorm\\Blogdown\\content"
+  ],
+  "extensions" : [
+    "*.md"
+  ]
+}
