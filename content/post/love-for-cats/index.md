@@ -3,6 +3,9 @@ title: "My obsession with cats"
 date: 2021-09-02T21:55:11+03:00
 draft: false
 
+categories: [
+  "Music"
+]
 comments: true
 description: "Detailed explanation on why I am so obsessed with those cute feline creatures"
 hidden: false
