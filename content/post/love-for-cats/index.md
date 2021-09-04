@@ -6,7 +6,7 @@ draft: false
 categories: [
   "Music"
 ]
-comments: true
+
 description: "Detailed explanation on why I am so obsessed with those cute feline creatures"
 hidden: false
 image: "cover.jpg"

@@ -3,7 +3,6 @@ title: "My First Blog Post"
 date: 2021-09-02T16:36:12+03:00
 draft: false
 
-comments: true
 description: "My very first blog posting. I introduce you to my blog, and what It's all gonna be about"
 hidden: false
 image: "cover.jpg"
